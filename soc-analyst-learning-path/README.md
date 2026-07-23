@@ -20,7 +20,7 @@ Parcours [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path) 
 | 1 | SOC Fundamentals | 9 Lesson · 11 Question · 1 Quiz | ✅ [Voir](./01-SOC-Fundamentals) |
 | 2 | Cyber Kill Chain | 9 Lesson · 13 Question · 1 Quiz | ✅ [Voir](./02-Cyber-Kill-Chain) |
 | 3 | MITRE ATT&CK Framework | 8 Lesson · 19 Question · 1 Quiz | ✅ [Voir](./03-MITRE-ATT&CK-Framework) |
-| 4 | Phishing Email Analysis | 7 Lesson · 11 Question · 1 Challenge · 1 Quiz · 4 Alert | *à venir* |
+| 4 | Phishing Email Analysis | 7 Lesson · 11 Question · 1 Challenge · 1 Quiz · 4 Alert | 🟧 [Voir (en cours)](./04-Phishing-Email-Analysis) |
 | 5 | Detecting Web Attacks | 9 Lesson · 27 Question · 2 Challenge · 6 Alert | *à venir* |
 | 6 | Detecting Web Attacks - 2 | 4 Lesson · 12 Question | *à venir* |
 | 7 | Investigate Web Attack | 7 Questions | *à venir* |
