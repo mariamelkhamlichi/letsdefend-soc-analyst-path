@@ -4,6 +4,7 @@ Suivi de ma progression sur les parcours de formation structurés de [LetsDefend
 
 ## Paths en cours / réalisés
 
+
 | Path | Rôle | Difficulté | Statut | Détail |
 |---|---|---|---|---|
 | SOC Analyst Learning Path | Security Analyst | Medium | 🔵 En cours | [Voir](./soc-analyst-learning-path) |
