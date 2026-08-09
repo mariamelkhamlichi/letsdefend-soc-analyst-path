@@ -43,7 +43,6 @@ Parcours [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path) 
 | 24 | Building a Malware Analysis Lab | 6 Lesson · 10 Question | *à venir* |
 | 25 | Building a SOC Lab at Home | 5 Lesson · 5 Question | *à venir* |
 
-*Les notes de chaque module seront ajoutées au fur et à mesure de leur complétion, dans un dossier dédié par module.*
 
 ## 📂 Structure
 
