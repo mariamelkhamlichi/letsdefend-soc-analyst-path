@@ -43,13 +43,6 @@ Parcours [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path) 
 | 24 | Building a Malware Analysis Lab | 6 Lesson · 10 Question | *à venir* |
 | 25 | Building a SOC Lab at Home | 5 Lesson · 5 Question | *à venir* |
 
-## 🎯 Résultats attendus
-- Maîtrise des outils et technologies SOC (SIEM, EDR, threat intel, monitoring réseau)
-- Détection avancée de menaces et réponse à incidents
-- Gestion des vulnérabilités
-- Préparation aux certifications (CSA, CompTIA Security+...)
-- Simulations pratiques en environnement contrôlé
-- Soft skills : esprit analytique, résolution de problèmes, travail sous pression
   
 ## 📂 Structure
 
